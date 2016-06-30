@@ -8,8 +8,8 @@ import java.net.Socket;
 public class TCPClient {
  
     private String serverMessage;
-    public static final String SERVERIP = "192.168.1.101"; //your computer IP address
-    public static final int SERVERPORT = 4444;
+    public static final String SERVERIP = 192.168.3.68;//"192.168.1.101"; //your computer IP address
+    public static final int SERVERPORT = 8080;//4444;
     private OnMessageReceived mMessageListener = null;
     private boolean mRun = false;
     Socket socket;
