@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CamsHouse</string>
+    <string name="action_settings">Settings</string>
+    <string name="Flag1">Tony</string>
+    <string name="Flag2">Jason</string>
+    <string name="Flag3">Cam</string>
+    <string name="Flag4">Lounge Main</string>
+    <string name="Flag5">Lounge TV</string>
+    <string name="Flag6">Kitchen</string>
+    <string name="Flag7">Bathroom</string>
+    <string name="Flag8">Entrance</string>
+
+</resources>
